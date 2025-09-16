@@ -27,4 +27,5 @@ The goal was to compare the performance of a simple Artificial Neural Network (A
 3.  Run the cells sequentially to reproduce the training and evaluation process.
 
 ## 🙏 Acknowledgements
-This project was mentored by Ashish Jangra as part of the GFG Nation SkillUp initiative.
+This project was mentored by Ashish Jangra Sir as part of the GFG Nation SkillUp initiative under the course 21Projects in 21Days.
+Thank you sir for your valuable guidance.
